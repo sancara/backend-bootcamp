@@ -12,4 +12,6 @@
 ### SQL commands:
 
 1. `CREATE DATABASE <name>;` #Create a database
-2.
+2. `USE <database_name>;` #Connect to database
+3. `SHOW TABLES;` #After connect shows tables in database
+[Bootcamp_database](Clase4/bootcamp.sql) 
