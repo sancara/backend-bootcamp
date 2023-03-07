@@ -2,7 +2,7 @@
 
 ## RDBMS
 
-### MySQL commands:
+### MySQL commands:
 
 1. `mysql -u <username> -p` #Authenticate by user and password from the terminal
    u: user
