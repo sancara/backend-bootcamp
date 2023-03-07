@@ -2,7 +2,7 @@
 
 ## RDBMS
 
-### MySQL commands:
+### MySQL commands:
 
 1. `mysql -u <username> -p` #Authenticate by user and password from the terminal
    u: user
@@ -10,7 +10,7 @@
 2. `SHOW DATABASES`; #Show databases on mysql instance
 3. `DESCRIBE or EXPLAIN <table_name> `#describes table or query execution plan
 
-### SQL commands:
+### SQL commands:
 
 1. `CREATE DATABASE <name>;` #Create a database
 2. `USE <database_name>;` #Connect to database
