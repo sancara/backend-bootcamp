@@ -23,7 +23,7 @@ def application(environ, start_response): # WSGI interface
     start_response(status, headers) # MetaData
     #html = "Hola mundo estamos en el WSGI"
 
-    return [ bytes(HTML, 'UTF-8')] # Client response -> Rendered the constant HTML line 3
+    return [ bytes(HTML, 'ISO-8859-1')] # Client response -> Rendered the constant HTML line 3
     
 PORT = 8000 
 # For convention in python the ports are 8000, 5000, 3000
