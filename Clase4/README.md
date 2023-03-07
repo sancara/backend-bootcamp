@@ -8,6 +8,7 @@
    u: user
    p: password
 2. `SHOW DATABASES`; #Show databases on mysql instance
+3. `DESCRIBE or EXPLAIN <table_name> `#describes table or query execution plan
 
 ### SQL commands:
 
