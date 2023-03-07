@@ -9,7 +9,7 @@
    p: password
 2. `SHOW DATABASES`; #Show databases on mysql instance
 
-### SQL commands:
+### SQL commands:
 
 1. `CREATE DATABASE <name>;` #Create a database
 2.
